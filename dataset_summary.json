@@ -1,0 +1,20 @@
+{
+  "dataset": "Cross-Statistics Citation Network (CSCN) — 233-author subgraph",
+  "release_scope": "analysis-ready subgraph release",
+  "direction_convention": {
+    "tail": "authors of the cited paper",
+    "head": "authors of the citing paper"
+  },
+  "released_network_representation": "processed size-constrained hyperedges only",
+  "source_hyperedges_included": false,
+  "author_count": 233,
+  "active_author_count": 233,
+  "paper_count_in_hypergraph": 2777,
+  "unique_paper_citation_pair_count": 8691,
+  "processed_directed_hyperedge_count": 107551,
+  "maximum_processed_tail_size": 2,
+  "maximum_processed_head_size": 2,
+  "tail_community_count": 5,
+  "head_community_count": 4,
+  "weak_component_count": 1
+}

@@ -1,0 +1,234 @@
+node_index,author_id,display_name,tail_community_id,tail_community_label,head_community_id,head_community_label
+1,author_70dfd5ea3723345b,Peter M. Visscher,T1,Biostatistics / genomics cited core,H1,Biostatistics / genomics
+2,author_cb87ceab839e8773,Jian Yang,T1,Biostatistics / genomics cited core,H1,Biostatistics / genomics
+3,author_2b185c601c882a18,Naomi R. Wray,T1,Biostatistics / genomics cited core,H1,Biostatistics / genomics
+4,author_95f2cce798a56dce,Michael E. Goddard,T1,Biostatistics / genomics cited core,H1,Biostatistics / genomics
+5,author_57f1cb27d5737a50,Jian Zeng,T1,Biostatistics / genomics cited core,H1,Biostatistics / genomics
+6,author_82f508da7734ddeb,Zhili Zheng,T1,Biostatistics / genomics cited core,H1,Biostatistics / genomics
+7,author_bdf44bc0f2ee2301,Kathryn E. Kemper,T1,Biostatistics / genomics cited core,H1,Biostatistics / genomics
+8,author_eb5b96166373c87e,Loïc Yengo,T1,Biostatistics / genomics cited core,H1,Biostatistics / genomics
+9,author_69ccf18db1423239,Luke R. Lloyd‐Jones,T1,Biostatistics / genomics cited core,H1,Biostatistics / genomics
+10,author_8fdebc4381aa0517,Yang Wu,T1,Biostatistics / genomics cited core,H1,Biostatistics / genomics
+11,author_b9dd530659625fb9,Angli Xue,T1,Biostatistics / genomics cited core,H1,Biostatistics / genomics
+12,author_18eef16eead6c18d,Julia Sidorenko,T1,Biostatistics / genomics cited core,H1,Biostatistics / genomics
+13,author_4f010c8ddb6db1df,Zhihong Zhu,T1,Biostatistics / genomics cited core,H1,Biostatistics / genomics
+14,author_645e070ab4b1de77,Futao Zhang,T1,Biostatistics / genomics cited core,H1,Biostatistics / genomics
+15,author_e6e22822e7816e6d,Joseph E. Powell,T1,Biostatistics / genomics cited core,H1,Biostatistics / genomics
+16,author_b7add4fb7ade0af0,Matthew R. Robinson,T1,Biostatistics / genomics cited core,H1,Biostatistics / genomics
+17,author_4ee96983ab5991ca,Tōnu Esko,T1,Biostatistics / genomics cited core,H1,Biostatistics / genomics
+18,author_73b53ecacd112d45,Grant W. Montgomery,T1,Biostatistics / genomics cited core,H1,Biostatistics / genomics
+19,author_e1bc098d73155dd0,Allan F. McRae,T1,Biostatistics / genomics cited core,H1,Biostatistics / genomics
+20,author_fa1094a40d909c76,Andres Metspalu,T1,Biostatistics / genomics cited core,H1,Biostatistics / genomics
+21,author_6d6a09d02274e035,Maciej Trzaskowski,T1,Biostatistics / genomics cited core,H1,Biostatistics / genomics
+22,author_3565afb0e80cb2d4,Gibran Hemani,T1,Biostatistics / genomics cited core,H1,Biostatistics / genomics
+23,author_ced59f88a0f6f27c,Reedik Mägi,T1,Biostatistics / genomics cited core,H1,Biostatistics / genomics
+24,author_9757c33dd9b8fc63,Nicholas G. Martin,T1,Biostatistics / genomics cited core,H1,Biostatistics / genomics
+25,author_2eca216ee9d28d17,Sang Lee,T1,Biostatistics / genomics cited core,H1,Biostatistics / genomics
+26,author_18701881f4deb37a,Stephan Ripke,T1,Biostatistics / genomics cited core,H1,Biostatistics / genomics
+27,author_f4eece98eb14931d,Greg Gibson,T1,Biostatistics / genomics cited core,H1,Biostatistics / genomics
+28,author_f7185eb335d39c9b,Benjamin M. Neale,T1,Biostatistics / genomics cited core,H1,Biostatistics / genomics
+29,author_3c17bbf9db806938,Harm-Jan Westra,T1,Biostatistics / genomics cited core,H1,Biostatistics / genomics
+30,author_b24c9923af74f1c5,Eli A. Stahl,T1,Biostatistics / genomics cited core,H1,Biostatistics / genomics
+31,author_a98eb6b7df3ba7c9,Enda M. Byrne,T1,Biostatistics / genomics cited core,H1,Biostatistics / genomics
+32,author_57861a65aa04015f,Steven A. McCarroll,T1,Biostatistics / genomics cited core,H1,Biostatistics / genomics
+33,author_70cc3b44c77b5fe1,Mark J. Daly,T1,Biostatistics / genomics cited core,H1,Biostatistics / genomics
+34,author_161ddc23b0f35273,Jennifer L. Moran,T1,Biostatistics / genomics cited core,H1,Biostatistics / genomics
+35,author_09c9c386da8a3fa9,Shaun Purcell,T1,Biostatistics / genomics cited core,H1,Biostatistics / genomics
+36,author_6c4d30748545ff6a,Edward M. Scolnick,T1,Biostatistics / genomics cited core,H1,Biostatistics / genomics
+37,author_da1b55f68bba15c7,Verneri Anttila,T1,Biostatistics / genomics cited core,H1,Biostatistics / genomics
+38,author_73f41b94e1cf4e09,Po‐Ru Loh,T1,Biostatistics / genomics cited core,H1,Biostatistics / genomics
+39,author_7c0b888b4a6fe96e,Hilary K. Finucane,T1,Biostatistics / genomics cited core,H1,Biostatistics / genomics
+40,author_1b8040fdfa82b24d,Brendan Bulik‐Sullivan,T1,Biostatistics / genomics cited core,H1,Biostatistics / genomics
+41,author_555dfa8f0e8b53f9,Alkes L. Price,T1,Biostatistics / genomics cited core,H1,Biostatistics / genomics
+42,author_c147d30ee8388c58,Nick Patterson,T1,Biostatistics / genomics cited core,H1,Biostatistics / genomics
+43,author_84aa1381d2590fa0,Chengchun Shi,T3,Economics / high-dimensional methods core,H2,Causal inference
+44,author_9826102da56ebfd2,Rui Song,T3,Economics / high-dimensional methods core,H2,Causal inference
+45,author_10309c0907ad1a09,Susan Athey,T2,Causal / policy inference cited core,H2,Causal inference
+46,author_ba0dbff281dd9c39,Stefan Wager,T2,Causal / policy inference cited core,H2,Causal inference
+47,author_56cb5438a59cdc26,Guido W. Imbens,T2,Causal / policy inference cited core,H2,Causal inference
+48,author_162dc95ad700c751,Alberto Abadie,T2,Causal / policy inference cited core,H2,Causal inference
+49,author_558f542ceeeebf86,Erik Sverdrup,T4,Statistical ML / network learning core,H2,Causal inference
+50,author_4a6680293a535d84,Yifan Cui,T2,Causal / policy inference cited core,H2,Causal inference
+51,author_68c1941e8a48efbe,Baoluo Sun,T2,Causal / policy inference cited core,H2,Causal inference
+52,author_95697cc35f63b8e8,Wang Miao,T2,Causal / policy inference cited core,H2,Causal inference
+53,author_dd3fcbb2ca0ce4ac,Eric J. Tchetgen Tchetgen,T2,Causal / policy inference cited core,H2,Causal inference
+54,author_b580bfa71d102c72,Xu Shi,T2,Causal / policy inference cited core,H2,Causal inference
+55,author_123d71ea525f5f7e,James M. Robins,T2,Causal / policy inference cited core,H2,Causal inference
+56,author_50effff18ed59dca,Lan Liu,T5,Cross-method bridge / secondary methods,H2,Causal inference
+57,author_73c6042441b1050c,Ilya Shpitser,T5,Cross-method bridge / secondary methods,H2,Causal inference
+58,author_1086f9b86f3cea95,Ting Ye,T5,Cross-method bridge / secondary methods,H2,Causal inference
+59,author_5358d915ed71fe3f,Linbo Wang,T2,Causal / policy inference cited core,H2,Causal inference
+60,author_0cea288d027af2ce,Thomas S. Richardson,T2,Causal / policy inference cited core,H2,Causal inference
+61,author_669d67c7fec03f35,Xiao‐Hua Zhou,T2,Causal / policy inference cited core,H2,Causal inference
+62,author_c3a56be371974cc6,Dylan S. Small,T2,Causal / policy inference cited core,H2,Causal inference
+63,author_e013f9da4947f168,Qingyuan Zhao,T2,Causal / policy inference cited core,H2,Causal inference
+64,author_bee286b833df611f,Ashkan Ertefaie,T2,Causal / policy inference cited core,H2,Causal inference
+65,author_17e3bb2e70a1bc19,Bo Zhang,T5,Cross-method bridge / secondary methods,H2,Causal inference
+66,author_463489e38f46b716,Hyunseung Kang,T2,Causal / policy inference cited core,H2,Causal inference
+67,author_b55de022a1d92d9d,Bikram Karmakar,T5,Cross-method bridge / secondary methods,H2,Causal inference
+68,author_5126173671abc602,Luke Keele,T2,Causal / policy inference cited core,H2,Causal inference
+69,author_30d1a4326d92c890,Colin B. Fogarty,T2,Causal / policy inference cited core,H2,Causal inference
+70,author_7f10a7aa8766296e,Andrea Rotnitzky,T2,Causal / policy inference cited core,H2,Causal inference
+71,author_madstat_41748,Tyler Vanderweele,T2,Causal / policy inference cited core,H2,Causal inference
+72,author_1edd897515f38069,Rachel R. Kelz,T2,Causal / policy inference cited core,H2,Causal inference
+73,author_814dd14ba9a1ce64,Avi Feller,T2,Causal / policy inference cited core,H2,Causal inference
+74,author_f53428494018b3df,Eli Ben‐Michael,T2,Causal / policy inference cited core,H2,Causal inference
+75,author_e47b209cdcf81ef9,Jesse Rothstein,T2,Causal / policy inference cited core,H2,Causal inference
+76,author_7ffaffe39ebf7b73,Luke Miratrix,T2,Causal / policy inference cited core,H2,Causal inference
+77,author_8ebdd5aeb55f7357,Peng Ding,T2,Causal / policy inference cited core,H2,Causal inference
+78,author_c53ce9ee90f98b8c,Anqi Zhao,T5,Cross-method bridge / secondary methods,H2,Causal inference
+79,author_803b157f4e7b4c24,Xinran Li,T2,Causal / policy inference cited core,H2,Causal inference
+80,author_13f833c9f9a556b1,Shu Yang,T2,Causal / policy inference cited core,H2,Causal inference
+81,author_47cbcd5e8ce7c957,Guohua Zou,T5,Cross-method bridge / secondary methods,H3,Economics / high-dimensional statistics
+82,author_7330616fdd5a8bbd,Xinyu Zhang,T3,Economics / high-dimensional methods core,H3,Economics / high-dimensional statistics
+83,author_d632b192b13fb903,Alan T. K. Wan,T5,Cross-method bridge / secondary methods,H3,Economics / high-dimensional statistics
+84,author_2a5b3a94c0a1db88,Jun Liao,T4,Statistical ML / network learning core,H3,Economics / high-dimensional statistics
+85,author_8215e804589235e2,Shouyang Wang,T5,Cross-method bridge / secondary methods,H3,Economics / high-dimensional statistics
+86,author_1340a86b34fede80,Yongmiao Hong,T5,Cross-method bridge / secondary methods,H3,Economics / high-dimensional statistics
+87,author_2b1e00ac65c59f1b,Bin Chen,T5,Cross-method bridge / secondary methods,H3,Economics / high-dimensional statistics
+88,author_2895fc92dd95ea4a,Wendun Wang,T5,Cross-method bridge / secondary methods,H3,Economics / high-dimensional statistics
+89,author_1ed7ce575f9668cd,Zhonghao Fu,T4,Statistical ML / network learning core,H3,Economics / high-dimensional statistics
+90,author_674e6af21e2d049e,Xia Wang,T5,Cross-method bridge / secondary methods,H3,Economics / high-dimensional statistics
+91,author_1a89b781360bc551,Liangjun Su,T3,Economics / high-dimensional methods core,H3,Economics / high-dimensional statistics
+92,author_524544747d0f8186,Sainan Jin,T3,Economics / high-dimensional methods core,H3,Economics / high-dimensional statistics
+93,author_2627760b0585110c,Peter C.B. Phillips,T3,Economics / high-dimensional methods core,H3,Economics / high-dimensional statistics
+94,author_a4506a2812fb0daf,Xun Lu,T3,Economics / high-dimensional methods core,H3,Economics / high-dimensional statistics
+95,author_6e28f50246970311,Halbert White,T3,Economics / high-dimensional methods core,H3,Economics / high-dimensional statistics
+96,author_da070f7847209c57,Jiti Gao,T3,Economics / high-dimensional methods core,H3,Economics / high-dimensional statistics
+97,author_0917be003b943303,Degui Li,T3,Economics / high-dimensional methods core,H3,Economics / high-dimensional statistics
+98,author_b1291a151d62725c,Oliver Linton,T3,Economics / high-dimensional methods core,H3,Economics / high-dimensional statistics
+99,author_51487d6038c2c5ce,Chen Jia,T3,Economics / high-dimensional methods core,H3,Economics / high-dimensional statistics
+100,author_27ead70073f36c83,Zudi Lu,T5,Cross-method bridge / secondary methods,H3,Economics / high-dimensional statistics
+101,author_f5979f9b8e8e7d2a,Chaohua Dong,T5,Cross-method bridge / secondary methods,H3,Economics / high-dimensional statistics
+102,author_19d7b10cf262d4ff,Bin Peng,T5,Cross-method bridge / secondary methods,H3,Economics / high-dimensional statistics
+103,author_bc60565971072b12,Dag Tjøstheim,T5,Cross-method bridge / secondary methods,H3,Economics / high-dimensional statistics
+104,author_2ac09b893626182e,Yoon‐Jae Whang,T5,Cross-method bridge / secondary methods,H3,Economics / high-dimensional statistics
+105,author_5901ea355a88ce36,Myung Hwan Seo,T5,Cross-method bridge / secondary methods,H3,Economics / high-dimensional statistics
+106,author_8709d522f4a1ea8e,Sokbae Lee,T2,Causal / policy inference cited core,H3,Economics / high-dimensional statistics
+107,author_b5f2f11592213143,Youngki Shin,T4,Statistical ML / network learning core,H3,Economics / high-dimensional statistics
+108,author_be9ef901e8fca3cf,Yuan Liao,T3,Economics / high-dimensional methods core,H3,Economics / high-dimensional statistics
+109,author_796b946d481d70ed,Victor Chernozhukov,T2,Causal / policy inference cited core,H3,Economics / high-dimensional statistics
+110,author_f4fcf69f6b7edd24,Christian Hansen,T2,Causal / policy inference cited core,H3,Economics / high-dimensional statistics
+111,author_57d6b4cf6d383641,Whitney K. Newey,T2,Causal / policy inference cited core,H3,Economics / high-dimensional statistics
+112,author_d3f589d62735ecc1,Kengo Kato,T2,Causal / policy inference cited core,H3,Economics / high-dimensional statistics
+113,author_7333586780a00e5b,Iván Fernández‐Val,T3,Economics / high-dimensional methods core,H3,Economics / high-dimensional statistics
+114,author_740da2ea9312b382,Ye Luo,T5,Cross-method bridge / secondary methods,H3,Economics / high-dimensional statistics
+115,author_e91166689fd36838,Martin Spindler,T5,Cross-method bridge / secondary methods,H3,Economics / high-dimensional statistics
+116,author_318720d516df8cc0,Joël L. Horowitz,T2,Causal / policy inference cited core,H3,Economics / high-dimensional statistics
+117,author_5b91146285e11ff1,Jushan Bai,T3,Economics / high-dimensional methods core,H3,Economics / high-dimensional statistics
+118,author_0ecc182bfb2dd353,Serena Ng,T3,Economics / high-dimensional methods core,H3,Economics / high-dimensional statistics
+119,author_954a8e79732f2d57,Tomohiro Ando,T5,Cross-method bridge / secondary methods,H3,Economics / high-dimensional statistics
+120,author_0d779a5d9fcb231e,Kunpeng Li,T5,Cross-method bridge / secondary methods,H3,Economics / high-dimensional statistics
+121,author_2bd3cdf72b0aedd7,Lina Lu,T5,Cross-method bridge / secondary methods,H3,Economics / high-dimensional statistics
+122,author_e0143cb9a45d7723,Qi Li,T3,Economics / high-dimensional methods core,H3,Economics / high-dimensional statistics
+123,author_f61dfa99d12ff2f3,Trevor Hastie,T3,Economics / high-dimensional methods core,H4,Statistical ML
+124,author_ca6d756f8bac62fa,Robert Tibshirani,T3,Economics / high-dimensional methods core,H4,Statistical ML
+125,author_9e6b78f028b563f3,Noah Simon,T3,Economics / high-dimensional methods core,H4,Statistical ML
+126,author_c972ab2ff0cf437f,Marco Carone,T2,Causal / policy inference cited core,H4,Statistical ML
+127,author_239ad3f32e26c063,Brian D. Williamson,T5,Cross-method bridge / secondary methods,H4,Statistical ML
+128,author_fa819ec801a20cc6,Hongxiang Qiu,T5,Cross-method bridge / secondary methods,H4,Statistical ML
+129,author_411a6c984fc974db,Jean Feng,T4,Statistical ML / network learning core,H4,Statistical ML
+130,author_06b86a8aad7fa16d,Leying Guan,T4,Statistical ML / network learning core,H4,Statistical ML
+131,author_60a910738a3f06c9,George Deligiannidis,T4,Statistical ML / network learning core,H4,Statistical ML
+132,author_7673d1756231460a,Randal Douc,T4,Statistical ML / network learning core,H4,Statistical ML
+133,author_506bd6d368d43952,Andrew O. Finley,T4,Statistical ML / network learning core,H4,Statistical ML
+134,author_72e5d2303cfd6752,Sudipto Banerjee,T4,Statistical ML / network learning core,H4,Statistical ML
+135,author_2ee53c769569b677,Abhirup Datta,T4,Statistical ML / network learning core,H4,Statistical ML
+136,author_03c9c32d124faaf1,Alan E. Gelfand,T4,Statistical ML / network learning core,H4,Statistical ML
+137,author_e241e9bf8dbb4c8a,Lu Zhang,T4,Statistical ML / network learning core,H4,Statistical ML
+138,author_81ebcbbd5b62bc30,Mingyuan Zhou,T4,Statistical ML / network learning core,H4,Statistical ML
+139,author_ce954c1b943f4013,Bo Chen,T4,Statistical ML / network learning core,H4,Statistical ML
+140,author_757c352f0a11b457,Hao Zhang,T5,Cross-method bridge / secondary methods,H4,Statistical ML
+141,author_91b903c571789d8f,Lawrence Carin,T4,Statistical ML / network learning core,H4,Statistical ML
+142,author_aac6ebb03a059b75,David M. Blei,T4,Statistical ML / network learning core,H4,Statistical ML
+143,author_3be63463e95c325a,John Paisley,T4,Statistical ML / network learning core,H4,Statistical ML
+144,author_43509c2224772c56,Hanna Wallach,T4,Statistical ML / network learning core,H4,Statistical ML
+145,author_f073eb47c1c3e237,Zhaoran Wang,T2,Causal / policy inference cited core,H4,Statistical ML
+146,author_cs_official_2ac91e015ffffff0,Yixin Wang,T4,Statistical ML / network learning core,H4,Statistical ML
+147,author_13cff4f378ba682b,Ricardo Henao,T4,Statistical ML / network learning core,H4,Statistical ML
+148,author_cs_official_6eb4860dbca7a43e,Zhe Gan,T4,Statistical ML / network learning core,H4,Statistical ML
+149,author_2ee19567213a5b72,Changyou Chen,T4,Statistical ML / network learning core,H4,Statistical ML
+150,author_aea2283176f371a8,Chunyuan Li,T4,Statistical ML / network learning core,H4,Statistical ML
+151,author_ed5290865063a86c,Zhuoran Yang,T5,Cross-method bridge / secondary methods,H4,Statistical ML
+152,author_cs_official_337abf33e3c4c3e3,Dustin Tran,T5,Cross-method bridge / secondary methods,H4,Statistical ML
+153,author_3878a8cbca8caadd,Piyush Rai,T5,Cross-method bridge / secondary methods,H4,Statistical ML
+154,author_07c5c7e836a73eb0,Hongteng Xu,T4,Statistical ML / network learning core,H4,Statistical ML
+155,author_4d827d0eb3671cd9,Hongyuan Zha,T4,Statistical ML / network learning core,H4,Statistical ML
+156,author_dbde6b664b9a9513,Le Song,T5,Cross-method bridge / secondary methods,H4,Statistical ML
+157,author_40bae9f57f7b4a28,Kenji Fukumizu,T5,Cross-method bridge / secondary methods,H4,Statistical ML
+158,author_67fccce59c55d398,Minh Tang,T4,Statistical ML / network learning core,H4,Statistical ML
+159,author_91c9bfa7223c661c,Carey E. Priebe,T4,Statistical ML / network learning core,H4,Statistical ML
+160,author_3b95ae0f29dbac48,Vince Lyzinski,T4,Statistical ML / network learning core,H4,Statistical ML
+161,author_fbdca1c94fa5d99a,Daniel L. Sussman,T4,Statistical ML / network learning core,H4,Statistical ML
+162,author_e41aee8b1df16c24,Avanti Athreya,T4,Statistical ML / network learning core,H4,Statistical ML
+163,author_9ee1d3c0429a5ce2,Youngser Park,T4,Statistical ML / network learning core,H4,Statistical ML
+164,author_2a27ec322b1d58e2,Joshua Cape,T4,Statistical ML / network learning core,H4,Statistical ML
+165,author_47ddf047d7a96408,Cencheng Shen,T5,Cross-method bridge / secondary methods,H4,Statistical ML
+166,author_cfbbe41a77c4d636,Patrick Rubin‐Delanchy,T4,Statistical ML / network learning core,H4,Statistical ML
+167,author_8210552f1d8ae05b,Nicholas A. Heard,T4,Statistical ML / network learning core,H4,Statistical ML
+168,author_9431ffbc3df4ef96,Francesco Sanna Passino,T4,Statistical ML / network learning core,H4,Statistical ML
+169,author_5e23aa86e6953365,Larry Wasserman,T3,Economics / high-dimensional methods core,H4,Statistical ML
+170,author_bc32c813af8417de,Sivaraman Balakrishnan,T5,Cross-method bridge / secondary methods,H4,Statistical ML
+171,author_f0cab62563332e87,Tudor Manole,T5,Cross-method bridge / secondary methods,H4,Statistical ML
+172,author_37d433fae02ab5b1,Jing Lei,T3,Economics / high-dimensional methods core,H4,Statistical ML
+173,author_8793effb44b73993,Kehui Chen,T5,Cross-method bridge / secondary methods,H4,Statistical ML
+174,author_0f6ca9a415401659,Stephen E. Fienberg,T4,Statistical ML / network learning core,H4,Statistical ML
+175,author_eb924d570e8654eb,Akshay Krishnamurthy,T5,Cross-method bridge / secondary methods,H4,Statistical ML
+176,author_ba73fd41cac2d9ad,Alekh Agarwal,T5,Cross-method bridge / secondary methods,H4,Statistical ML
+177,author_6ca423f5d0019ea0,Michael I. Jordan,T4,Statistical ML / network learning core,H4,Statistical ML
+178,author_9ab752a52a6a9d38,Martin J. Wainwright,T3,Economics / high-dimensional methods core,H4,Statistical ML
+179,author_87b8d8eabe5314c6,John C. Duchi,T5,Cross-method bridge / secondary methods,H4,Statistical ML
+180,author_3964245485b37cf6,Hongseok Namkoong,T5,Cross-method bridge / secondary methods,H4,Statistical ML
+181,author_b2c0c11f6a716a51,Cheng Mao,T4,Statistical ML / network learning core,H4,Statistical ML
+182,author_fbc13490df4f6394,Philippe Rigollet,T5,Cross-method bridge / secondary methods,H4,Statistical ML
+183,author_27243dcef390a851,Yuting Wei,T5,Cross-method bridge / secondary methods,H4,Statistical ML
+184,author_3d86a957b870b2ee,Gen Li,T1,Biostatistics / genomics cited core,H4,Statistical ML
+185,author_0cb20f6aec730f61,Yuxin Chen,T5,Cross-method bridge / secondary methods,H4,Statistical ML
+186,author_7c7012bf3d689ec0,Yuejie Chi,T5,Cross-method bridge / secondary methods,H4,Statistical ML
+187,author_fb9998209ca73ad0,Changxiao Cai,T5,Cross-method bridge / secondary methods,H4,Statistical ML
+188,author_98991badc925da72,Yuling Yan,T4,Statistical ML / network learning core,H4,Statistical ML
+189,author_00cd78b46687984a,Peter L. Bartlett,T4,Statistical ML / network learning core,H4,Statistical ML
+190,author_f84fad300c1f5cd3,Nicolas Flammarion,T5,Cross-method bridge / secondary methods,H4,Statistical ML
+191,author_6da6ff8a59643e5d,Jiaming Xu,T4,Statistical ML / network learning core,H4,Statistical ML
+192,author_2dcd3a08d6cb04b0,Emily B. Fox,T4,Statistical ML / network learning core,H4,Statistical ML
+193,author_3c6d8ffa84a4b5af,Elizaveta Levina,T3,Economics / high-dimensional methods core,H4,Statistical ML
+194,author_a7a6b03d1c692de3,Tianxi Li,T5,Cross-method bridge / secondary methods,H4,Statistical ML
+195,author_aefa0c3f263ecc18,Peter Hall,T3,Economics / high-dimensional methods core,H3,Economics / high-dimensional statistics
+196,author_ab492194570dc472,Aurore Delaigle,T3,Economics / high-dimensional methods core,H3,Economics / high-dimensional statistics
+197,author_cbe22a8d691e7f74,Alexander Meister,T5,Cross-method bridge / secondary methods,H3,Economics / high-dimensional statistics
+198,author_madstat_28529,Hans-georg Müller,T3,Economics / high-dimensional methods core,H3,Economics / high-dimensional statistics
+199,author_748e19d43ca0b1f9,Fang Yao,T3,Economics / high-dimensional methods core,H3,Economics / high-dimensional statistics
+200,author_4b3a05c695d1e207,Yichao Wu,T3,Economics / high-dimensional methods core,H3,Economics / high-dimensional statistics
+201,author_b2cbffd57da15b74,Jianqing Fan,T3,Economics / high-dimensional methods core,H3,Economics / high-dimensional statistics
+202,author_5063f9cdd9cfe3ff,Runze Li,T3,Economics / high-dimensional methods core,H3,Economics / high-dimensional statistics
+203,author_0a3a31b16e123e0a,Hui Zou,T3,Economics / high-dimensional methods core,H3,Economics / high-dimensional statistics
+204,author_9cde10684821b554,Han Liu,T3,Economics / high-dimensional methods core,H3,Economics / high-dimensional statistics
+205,author_ca4817a142b91b0a,Weichen Wang,T5,Cross-method bridge / secondary methods,H3,Economics / high-dimensional statistics
+206,author_45af1754c796014c,Ziwei Zhu,T3,Economics / high-dimensional methods core,H3,Economics / high-dimensional statistics
+207,author_ccf083b4d5589a53,Yang Ning,T3,Economics / high-dimensional methods core,H3,Economics / high-dimensional statistics
+208,author_b0039e2e6f849c17,Ethan X. Fang,T5,Cross-method bridge / secondary methods,H3,Economics / high-dimensional statistics
+209,author_8c73ac5e9a28551e,Tong Zhang,T3,Economics / high-dimensional methods core,H3,Economics / high-dimensional statistics
+210,author_6444c6540c0641bd,Kean Ming Tan,T3,Economics / high-dimensional methods core,H3,Economics / high-dimensional statistics
+211,author_6f8f93c670ca5280,Wen‐Xin Zhou,T3,Economics / high-dimensional methods core,H3,Economics / high-dimensional statistics
+212,author_97e0e34e953f7f00,Qiang Sun,T3,Economics / high-dimensional methods core,H3,Economics / high-dimensional statistics
+213,author_74375f71ece7cc77,Yang Feng,T3,Economics / high-dimensional methods core,H3,Economics / high-dimensional statistics
+214,author_979cea85b4cdac4f,Xuming He,T3,Economics / high-dimensional methods core,H3,Economics / high-dimensional statistics
+215,author_c769810e26a31a53,Yanyuan Ma,T3,Economics / high-dimensional methods core,H3,Economics / high-dimensional statistics
+216,author_madstat_47086,Liping Zhu,T3,Economics / high-dimensional methods core,H3,Economics / high-dimensional statistics
+217,author_277dfc8aff7707d7,Lan Wang,T3,Economics / high-dimensional methods core,H3,Economics / high-dimensional statistics
+218,author_f8090a92a0cc60e3,Li Zhu,T5,Cross-method bridge / secondary methods,H3,Economics / high-dimensional statistics
+219,author_d4f07039e1c7f3c5,Wei Zhong,T3,Economics / high-dimensional methods core,H3,Economics / high-dimensional statistics
+220,author_f8dc2af900dae279,Hengjian Cui,T5,Cross-method bridge / secondary methods,H3,Economics / high-dimensional statistics
+221,author_7c52fd5685a3761a,Yeqing Zhou,T5,Cross-method bridge / secondary methods,H3,Economics / high-dimensional statistics
+222,author_20492e5286b1436e,Wenwen Guo,T5,Cross-method bridge / secondary methods,H3,Economics / high-dimensional statistics
+223,author_0657c7e9ad4eb32b,Bo Kai,T5,Cross-method bridge / secondary methods,H3,Economics / high-dimensional statistics
+224,author_5e8988301a7c1d76,Lingzhou Xue,T5,Cross-method bridge / secondary methods,H3,Economics / high-dimensional statistics
+225,author_d45fdbc069a950ee,Xiufan Yu,T5,Cross-method bridge / secondary methods,H3,Economics / high-dimensional statistics
+226,author_5b4ae7391a247b45,Danning Li,T5,Cross-method bridge / secondary methods,H3,Economics / high-dimensional statistics
+227,author_6f7ae4576a78e212,Junwei Lu,T5,Cross-method bridge / secondary methods,H3,Economics / high-dimensional statistics
+228,author_80ac547df43a4756,Mladen Kolar,T5,Cross-method bridge / secondary methods,H3,Economics / high-dimensional statistics
+229,author_937eadde038fad20,Jiwei Zhao,T5,Cross-method bridge / secondary methods,H3,Economics / high-dimensional statistics
+230,author_6ac3648f8441dd47,Xuening Zhu,T5,Cross-method bridge / secondary methods,H3,Economics / high-dimensional statistics
+231,author_6ea52c765c3f8d33,Hansheng Wang,T3,Economics / high-dimensional methods core,H3,Economics / high-dimensional statistics
+232,author_madstat_40900,Chih-ling Tsai,T3,Economics / high-dimensional methods core,H3,Economics / high-dimensional statistics
+233,author_107d364c834d5ea5,Hua Liang,T3,Economics / high-dimensional methods core,H3,Economics / high-dimensional statistics

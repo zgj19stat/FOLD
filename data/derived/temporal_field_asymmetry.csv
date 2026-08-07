@@ -1,0 +1,13 @@
+period,field,statistics_uses_field_paper_citations,field_uses_statistics_paper_citations,statistics_use_over_field_use_ratio,unique_field_papers_used_by_statistics,unique_statistics_papers_used_by_field
+2005-2010,biology,3,0,inf,2,0
+2005-2010,computer_science,2,11,0.1818181818181818,2,9
+2005-2010,economics,18,12,1.5,11,7
+2011-2015,biology,8,1,8.0,8,1
+2011-2015,computer_science,31,53,0.5849056603773585,19,31
+2011-2015,economics,46,117,0.3931623931623931,34,73
+2016-2020,biology,31,11,2.8181818181818183,25,8
+2016-2020,computer_science,103,45,2.2888888888888888,55,39
+2016-2020,economics,142,294,0.4829931972789115,73,146
+2021-2024,biology,41,18,2.2777777777777777,26,15
+2021-2024,computer_science,181,23,7.869565217391305,106,19
+2021-2024,economics,207,470,0.4404255319148936,106,225
